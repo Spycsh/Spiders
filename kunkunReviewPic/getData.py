@@ -10,7 +10,7 @@ def open_url(url):
     html = response.text
     return html
 
-def get_danmu_id(html):
+def get_danmu_id(html):   # Ctrl+U查看网页源码，然后Ctrl+F搜索cid
     try:
         soup = BS(html, 'lxml')
         danmu_id = re.findall(r'cid=(\d+)&', html)[0]  # 一个视频只有一个弹幕号
