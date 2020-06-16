@@ -17,8 +17,8 @@ A category of python spiders for fun
 ## outlook backup tool
 > backup all the emails as html type in a folder
 
-![3](OutlookSpyder/result.jpg)
+![3](OutlookSpyder/result.JPG)
 
 > the subject, date, sender will be stored in mongoDB
 
-![4](OutlookSpyder/result2.jpg)
+![4](OutlookSpyder/result2.JPG)
