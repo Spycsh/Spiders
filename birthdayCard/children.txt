@@ -1,10 +1,12 @@
-外婆
-grandmother
-Grossmutter
-Abuela
-Grandmere
-English: "Happy birthday"
-French: “Bon anniversaire”
-Spanish: “Feliz cumpleanos”
-German: “Alles Gute zum Geburtstag”
+母上大人
+mother
+Mutter
+mamma
+Mere
+La madre
 Chinese: "生日愉快"
+English: "Happy birthday"
+German: “Alles Gute zum Geburtstag”
+Italian: “Buon compleanno”
+French: “Bon anniversaire”
+Spanish: “Feliz cumpleaños”
